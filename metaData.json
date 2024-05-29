@@ -1,12 +1,5 @@
 {
   "name": "FRIES",
   "symbol": "FRIES",
-  "uri": "https://icezman001.github.io/Devnet/fries.png",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "YourSolanaWalletAddress",
-      "share": 100
-    }
-  ]
+  "uri": "https://icezman001.github.io/Devnet/fries.png"
 }
